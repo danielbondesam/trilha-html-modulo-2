@@ -40,8 +40,11 @@ Fonte: https://www.youtube.com/watch?v=bHRXRYTppHM
   
 
 ## 🌎 Minhas redes sociais
-
-[![img](https://avatars.githubusercontent.com/u/75639305?s=400&u=f7a4a186e5305cf39b53c3baeef1bc0bc0402b83&v=4)](https://avatars.githubusercontent.com/u/75639305?s=400&u=f7a4a186e5305cf39b53c3baeef1bc0bc0402b83&v=4)
-
-Daniel Eduardo da Silva Bondesam
-[Instagram](https://www.instagram.com/daniel.bondesam/) | [GitHub](https://github.com/danielbondesam) | [LinkedIn](https://www.linkedin.com/in/daniel-bondesam/) | [YouTube](https://www.youtube.com/c/DanielBondesam) |
+<p>
+    <img align=left margin=10 width=80 src="https://avatars.githubusercontent.com/u/75639305?s=400&u=f7a4a186e5305cf39b53c3baeef1bc0bc0402b83&v=4"/>
+    <p>Daniel Eduardo da Silva Bondesam<br>
+  	<a href="https://www.instagram.com/daniel.bondesam/">Instagram</a>&nbsp;|&nbsp;
+    <a href="https://github.com/danielbondesam">GitHub</a>&nbsp;|&nbsp;
+    <a href="https://www.linkedin.com/in/daniel-bondesam/">LinkedIn</a>&nbsp;|&nbsp;
+    <a href="https://www.youtube.com/c/DanielBondesam">YouTube</a>&nbsp;|&nbsp;
+</p>
